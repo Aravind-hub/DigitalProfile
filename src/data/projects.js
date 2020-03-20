@@ -6,14 +6,14 @@ const PROJECTS = [
     {
         id: 1,
         title: 'Protofolio Site',
-        description: 'My protofolio site created using react js',
-        link: 'https://github.com/Aravind-hub/REST-API-SpringBoot-',
+        description: 'My protofolio website created using react js',
+        link: 'https://github.com/Aravind-hub/DigitalProfile',
         image: project1
     },
     {
         id: 2,
         title: 'Rest API',
-        description: 'Built a sample Rest API with basic CRUD operartions usiing spring boot',
+        description: 'Built a sample Rest API with basic CRUD operartions using spring boot',
         link: 'https://github.com/Aravind-hub/REST-API-SpringBoot-',
         image: project2
     },

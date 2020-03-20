@@ -28,10 +28,10 @@ class App extends Component {
                 {
                     this.state.displayBio?(
                         <div>
+                            <p>Completed my degree - B.Tech IT in 2015 at Adithya Institute of Technlogy, Coimbatore.</p>
                             <p>Passionate towards Automation and interested in learning new automation tools/technologies. Done various POCs along with the journey of automation, demonstrated successfully to clients and implemented in my projects. Currently I am into IVR UI development, where I am working with tools like Avaya Aura Orchestratioon Designer. </p> 
                             <p>Certified Automation Anywhere Essential RPA Professional and Bot Developer.</p>
                             <p>Currently I am working for Tata Consultancy Services at Chennai for past 3.8 years with overall technical experience of 4years and 6 months</p>
-                            <p>Completed my degree - B.Tech IT in 2015 at Adithya Institute of Technlogy, Coimbatore.</p>
                             <button onClick={this.toggleDisplayBio}>Show Less</button>
                         </div>
                     ) : (

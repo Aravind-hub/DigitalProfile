@@ -5,7 +5,7 @@ class Project extends Component{
     render(){
         const {title, image, description, link} = this.props.project;
         return(          
-        <div style={{display:'inline-block', width:300, margin:20}}>
+        <div style={{display:'inline-block', width:350, margin:20}}>
             <h3>{title}</h3>
             <img src={image} alt='profile' style={{width:200, height:150}} />
             <p>{description}</p>

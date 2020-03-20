@@ -5,7 +5,7 @@ class RewardsandAchievements extends Component{
         return(
             <rewards>
             <div>
-                <div style={{display:'inline-block', width:500, margin:20}}>
+                <div style={{display:'inline-block', width:447, margin:20}}>
                     <h2>Rewards and Recognition</h2>
                     <ul>
                         <li>Recognized as “Young Star of the Year” by the Account Head for the year 2018.</li>
